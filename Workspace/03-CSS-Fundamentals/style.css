@@ -10,7 +10,6 @@ li {
 h1 {
   color: blue;
   font-size: 26px;
-
   text-transform: uppercase;
   font-style: italic;
 }
@@ -31,7 +30,6 @@ h4 {
 
 p {
   font-size: 22px;
-
   line-height: 1.5;
 }
 
