@@ -1,6 +1,18 @@
 body {
   color: #444;
   font-family: sans-serif;
+  border-top: 10px solid #1098ad;
+}
+
+.main-header {
+  background-color: #f5efef;
+  padding: 20px;
+}
+
+aside {
+  background-color: #f5efef;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
 }
 
 h1,
@@ -61,16 +73,6 @@ footer p {
 
 .related {
   list-style: none;
-}
-
-.main-header {
-  background-color: #f5efef;
-}
-
-aside {
-  background-color: #f5efef;
-  border-top: 5px solid #1098ad;
-  border-bottom: 5px solid #1098ad;
 }
 
 li:first-child {
