@@ -1,6 +1,7 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -138,3 +139,5 @@ body {
 .brown {
   background-color: brown;
 }
+
+/* FLOATS */
